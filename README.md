@@ -1,5 +1,9 @@
 Holas
+<<<<<<< HEAD
 segunda linea siiiii
+=======
+segunda linea sISISIIisisi
+>>>>>>> b4d6387c84665184869920955ecfa06d3cd9e6af
 uwuuuuu
 uwuuuuu
 uwuuuuu
